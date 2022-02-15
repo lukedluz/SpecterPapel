@@ -1,0 +1,17 @@
+Itens:
+  Met5k:
+    ID: 339
+    Data: 0
+    Nome: '§4§lPAPEL DE METEORITOS'
+    Lore:
+    - '§7Clique com o direito e ganhe §e5k meteoritos'
+    Comandos:
+    - 'meteoritos @jogador 5000'
+  Run5b:
+    ID: 339
+    Data: 0
+    Nome: '§c§lPAPEL DE RUNAS'
+    Lore:
+    - '§7Clique com o direito e ganhe §e5B runas'
+    Comandos:
+    - 'runas @jogador 5000000'

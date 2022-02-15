@@ -1,0 +1,6 @@
+name: SpecterPapel
+main:  com.lucas.specterpapel.Main
+version: 1.0
+authors: [Specter]
+commands:
+  darpapel:
